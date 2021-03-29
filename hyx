@@ -1,0 +1,7 @@
+回声“＃hyx” >> README.md 
+git init 
+git add README.md 
+git commit -m“首次提交” 
+git branch -M main 
+git remote add origin https://github.com/6tt7x56c/hyx.git
+ git push-你起源主要
